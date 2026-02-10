@@ -1,85 +1,130 @@
-# Hi 👋, I'm Pedro Galdino
+Hi 👋, I'm Pedro Galdino
 
-🚀 **Junior Software Engineer | C, Python, JavaScript, PHP, HTML, CSS & MySQL**  
+🚀 Junior Full Stack Developer | Web & Software Development
 🇧🇷 Brazil
 
-Desenvolvedor **júnior focado em resultado**, com base sólida em **lógica de programação, desenvolvimento web e bancos de dados**.  
-Tenho facilidade em aprender rápido, escrever código organizado e **resolver problemas na prática**.
+Sou desenvolvedor full stack júnior, focado em entregar soluções funcionais, com base sólida em lógica de programação, desenvolvimento web e bancos de dados.
+Tenho facilidade em aprender rápido, escrever código limpo, versionar bem e resolver problemas na prática.
 
-Busco oportunidades **júnior ou trainee** para crescer tecnicamente e gerar valor desde o primeiro dia.
+Busco oportunidades júnior ou trainee para evoluir tecnicamente, contribuir em equipe e gerar valor desde o primeiro dia.
 
----
+🌐 Onde me encontrar
+<p align="left"> <a href="https://github.com/pedrohenriquegaldino01"> <img src="https://img.shields.io/badge/GitHub-Pedro%20Galdino-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/pedro-galdino-461304340/"> <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Galdino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/pedro_01.04/"> <img src="https://img.shields.io/badge/Instagram-@pedro_01.04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:pedrogaldino.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🧠 O que eu entrego como Full Stack Júnior
 
-## 🌐 Onde me encontrar
+⚙️ Desenvolvimento front-end e back-end com foco em funcionalidade
 
-<p align="left">
-  <a href="https://github.com/pedrohenriquegaldino01">
-    <img src="https://img.shields.io/badge/GitHub-Pedro%20Galdino-181717?style=for-the-badge&logo=github" />
-  </a>
+🧩 Forte base em lógica de programação e resolução de problemas
 
-  <a href="https://www.linkedin.com/in/pedro-galdino-461304340/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Galdino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+🗄️ Criação, manipulação e integração com bancos de dados MySQL
 
-  <a href="https://www.instagram.com/pedro_01.04/">
-    <img src="https://img.shields.io/badge/Instagram-@pedro_01.04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+🔌 Desenvolvimento e consumo de APIs REST
 
-  <a href="mailto:pedrogaldino.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+🔍 Debug, manutenção e melhoria de código
 
----
+🧪 Testes básicos e validação de funcionalidades
 
-## 🧠 O que eu entrego
+📈 Evolução contínua através de projetos práticos
 
-- ⚙️ Desenvolvimento web funcional (front-end e back-end)
-- 🧠 Forte lógica de programação e estrutura de dados básica
-- 🗄️ Criação, manipulação e consumo de bancos de dados MySQL
-- 🔍 Debug, manutenção e melhoria de código legado
-- 📈 Evolução contínua através de projetos práticos
+🛠️ Stack Técnica
+💻 Linguagens & Desenvolvimento Web
 
----
 
-## 🛠️ Stack Técnica
 
-### Linguagens & Web
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquegaldino01&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquegaldino01&layout=compact&theme=tokyonight" />
-</p>
 
----
+🗄️ Banco de Dados
 
-## 🎯 Mentalidade
+⚙️ Ferramentas & Práticas
 
-> _Código não é só sintaxe.  
-> É lógica, clareza e entrega._
 
----
 
-⭐ Se você busca alguém com vontade de aprender e executar, chegou ao perfil certo  
-🤝 Aberto a oportunidades, desafios e projetos reais
 
+Versionamento com Git (commits, branches, push/pull)
+
+Organização de projetos e código limpo
+
+Boas práticas de programação
+
+Aprendizado contínuo e autonomia
+
+📊 GitHub Stats
+<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquegaldino01&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquegaldino01&layout=compact&theme=tokyonight" /> </p>
+🎯 Mentalidade
+
+Código não é só sintaxe.
+É lógica, clareza, colaboração e entrega.
+
+⭐ Se você procura alguém disciplinado, em evolução constante e com vontade real de aprender,
+🤝 estou aberto a oportunidades, desafios e projetos.
+
+
+
+🚀 Junior Full Stack Developer | Web & Software Development
+🇧🇷 Brazil
+
+Sou desenvolvedor full stack júnior, focado em entregar soluções funcionais, com base sólida em lógica de programação, desenvolvimento web e bancos de dados.
+Tenho facilidade em aprender rápido, escrever código limpo, versionar bem e resolver problemas na prática.
+
+Busco oportunidades júnior ou trainee para evoluir tecnicamente, contribuir em equipe e gerar valor desde o primeiro dia.
+
+🌐 Onde me encontrar
+<p align="left"> <a href="https://github.com/pedrohenriquegaldino01"> <img src="https://img.shields.io/badge/GitHub-Pedro%20Galdino-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/pedro-galdino-461304340/"> <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Galdino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/pedro_01.04/"> <img src="https://img.shields.io/badge/Instagram-@pedro_01.04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:pedrogaldino.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🧠 O que eu entrego como Full Stack Júnior
+
+⚙️ Desenvolvimento front-end e back-end
+
+🧩 Forte base em lógica de programação e orientação a objetos
+
+🗄️ Criação, manipulação e integração com bancos de dados MySQL
+
+🔌 Desenvolvimento e consumo de APIs REST
+
+🔍 Debug, manutenção e melhoria de código
+
+🧪 Testes básicos e validação de funcionalidades
+
+📈 Evolução contínua através de projetos práticos
+
+🛠️ Stack Técnica
+💻 Linguagens & Desenvolvimento Web
+
+
+
+
+
+
+
+
+
+
+
+
+🗄️ Banco de Dados
+
+⚙️ Ferramentas & Práticas
+
+
+
+
+Versionamento com Git (commits, branches, pull requests)
+
+Organização de projetos e código limpo
+
+Boas práticas de programação
+
+Aprendizado contínuo e autonomia
+
+📊 GitHub Stats
+<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquegaldino01&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquegaldino01&layout=compact&theme=tokyonight" /> </p>
+🎯 Mentalidade
+
+Código não é só sintaxe.
+É lógica, clareza, colaboração e entreg
