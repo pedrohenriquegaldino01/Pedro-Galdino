@@ -73,13 +73,6 @@ Boas práticas de programação
 
 Aprendizado contínuo e autonomia
 
-📊 GitHub Stats
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquegaldino01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Pedro Galdino's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquegaldino01&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Most used languages" />
-</p>
 🎯 Mentalidade
 
 Código não é só sintaxe.
